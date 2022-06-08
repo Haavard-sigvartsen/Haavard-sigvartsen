@@ -6,7 +6,7 @@
 I have experience in writting in:
   - Powershell
       - MS-BPAInfo4000 (Medium sized project) inspired by a colleague from ATEA at the time
-      - DeleleFilesxDaysOld (Instead of remaking it from scratch every time, i just have it ready to go)
+      - DeleleFilesxDaysOld (Template script, instead of remaking it from scratch every time, i just have it ready to go)
 
   - VB.net
       - CCS v3 (Large sized project for my fitness hobby), with some SQL in it, also my first project that gave me more motivation for programming.
